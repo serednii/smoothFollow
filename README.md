@@ -12,4 +12,4 @@ smoothFollow({
     interval: 35,
     targetElementPositionX: -20,
     targetElementPositionY: -20,
-});
+}); [Learn more about smoothFollow](https://serednii.github.io/smoothFollow/)
