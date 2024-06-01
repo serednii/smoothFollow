@@ -6,13 +6,6 @@ The `smoothFollow` function allows an element to smoothly follow the mouse curso
 
 ## Usage
 
-```javascript
-smoothFollow({
-    targetElement: 'moon',
-    interval: 35,
-    targetElementPositionX: -20,
-    targetElementPositionY: -20,
-});
 
 [Learn more about smoothFollow](https://serednii.github.io/smoothFollow/)
 [Обычная ссылка с title](https://www.google.com "Сайт Google")
@@ -34,3 +27,11 @@ smoothFollow({
 [произвольный регистронезависимый текст]: https://www.mozilla.org
 [1]: http://slashdot.org
 [текст ссылки]: http://www.reddit.com
+
+```javascript
+smoothFollow({
+    targetElement: 'moon',
+    interval: 35,
+    targetElementPositionX: -20,
+    targetElementPositionY: -20,
+});
