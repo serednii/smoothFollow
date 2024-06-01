@@ -14,3 +14,4 @@ smoothFollow({
     targetElementPositionY: -20,
 });
 [Learn more about smoothFollow](https://serednii.github.io/smoothFollow/)
+[Обычная ссылка с title](https://www.google.com "Сайт Google")
