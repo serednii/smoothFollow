@@ -1,18 +1,11 @@
-.box {
-    display: flex;
-    justify-content: space-between;
-    gap: 2px;
+body {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
 }
 
-.images {
-    border: 1px solid black;
-    padding: 5px;
-    flex-basis: 70%;
-}
-
-.text {
-    border: 1px solid black;
-    padding: 5px;
-    flex-basis: 30%;
-    flex-shrink: 0;
+.target {
+    position: absolute;
+    width: 24px;
+    height: 24px;
 }
